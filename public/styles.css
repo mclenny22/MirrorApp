@@ -1,4 +1,0 @@
-body { font-family: sans-serif; margin: 0; padding: 0; }
-.grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
-.tile { width: 40px; height: 40px; border-radius: 6px; background: #E0E0E0; display: flex; align-items: center; justify-content: center; cursor: pointer; }
-.add-button { position: fixed; bottom: 20px; right: 20px; background: #00A14B; color: white; border: none; padding: 12px 16px; border-radius: 8px; cursor: pointer; }
